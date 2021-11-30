@@ -11,9 +11,9 @@ int main(void){
     for(i=0; i<9;i++){
         j=i;
         while(j>=0 && array[j] > array[j+1]){
-            temp=array[j];
+            temp=array[j]; #
             array[j]=array[j+1];
-            array[j+2]=temp;
+            array[j+1]=temp;
             j--;
         }
     }
