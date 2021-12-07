@@ -2,6 +2,7 @@
 
 ## 1. 거품 정렬 (Bubble Sort) ✔
 ![image](https://user-images.githubusercontent.com/43003110/145008053-c1aa3c84-dfaa-4ba0-905e-fd43ee58bda4.png)
+![bubble-sort-001](https://user-images.githubusercontent.com/43003110/145008292-9317e75a-0452-4479-b19d-df0e9249b734.gif)
 
 
 ## 2. 선택 정렬 (Selection Sort)  ✔ 
