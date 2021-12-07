@@ -1,16 +1,18 @@
 # basic_algorithm(Algorithm practice)
 
-## 1. 거품 정렬 (Bubble Sort)
+## 1. 거품 정렬 (Bubble Sort) ✔
+![image](https://user-images.githubusercontent.com/43003110/145008053-c1aa3c84-dfaa-4ba0-905e-fd43ee58bda4.png)
 
-## 2. 선택 정렬 (Selection Sort)
 
-## 3. 삽입 정렬 (Insertion Sort)
+## 2. 선택 정렬 (Selection Sort)  ✔ 
 
-## 4. 퀵 정렬 (Quick Sort)
+## 3. 삽입 정렬 (Insertion Sort)  ✔
 
-## 5. 병합 정렬 (Merge Sort)
+## 4. 퀵 정렬 (Quick Sort)  ✔
 
-## 6. 힙 정렬 (Heap Sort)
+## 5. 병합 정렬 (Merge Sort)  ✔
+
+## 6. 힙 정렬 (Heap Sort) ✔
 
 ## 7. 기수 정렬 (Radix Sort)
 
