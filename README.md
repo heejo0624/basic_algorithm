@@ -16,17 +16,23 @@
 
 ## 5. 병합 정렬 (Merge Sort)  ✔
 
+
 ## 6. 힙 정렬 (Heap Sort) ✔
+
 
 ## 7. 기수 정렬 (Radix Sort)
 
+
 ## 8. 계수 정렬 (Counting Sort)
+
 
 ## 9. 이분 탐색 (Binary Search)
 
 ## 10. 해시 테이블 (Hash Table)
 
 ## 11. DFS & BFS
+![Depth-First-Search](https://user-images.githubusercontent.com/43003110/145130986-0c5e807c-31a5-4c0f-9f81-d0e579cddd9c.gif)
+![Breadth-First-Search-Algorithm](https://user-images.githubusercontent.com/43003110/145130996-0bd1ff76-9c88-44df-ab80-f8e5b2123ec6.gif)
 
 ## 12. 최장 증가 수열 (LIS)
 
@@ -35,6 +41,7 @@
 ## 14. 동적 계획법 (DP)
 
 ## 15. 다익스트라 알고리즘 (Dijkstra)
+![Dijkstra_Animation](https://user-images.githubusercontent.com/43003110/145131053-1f60e180-82e4-4bf4-ae92-d5ac33e66d60.gif)
 
 ## 16. 비트마스크 (BitMask)
 
